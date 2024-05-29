@@ -1,6 +1,6 @@
 ---
-title: "Securing container deployments with binary authorization"
-date: 2024-02-01T01:07:08-05:00
+title: "Securing GCP container deployments with binary authorization"
+date: 2024-04-16T01:12:24-04:00
 ---
 
-Placeholder - WIP
+Placeholder - WIP.
