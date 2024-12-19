@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Peter&#39;s Personal Page</title>
+    <link>https://peterchoi-ca.github.io/posts/</link>
+    <description>Recent content in Posts on Peter&#39;s Personal Page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Feb 2024 01:07:08 -0500</lastBuildDate>
+    <atom:link href="https://peterchoi-ca.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Securing container deployments with binary authorization</title>
+      <link>https://peterchoi-ca.github.io/posts/binauthz-blogpost/</link>
+      <pubDate>Thu, 01 Feb 2024 01:07:08 -0500</pubDate>
+      <guid>https://peterchoi-ca.github.io/posts/binauthz-blogpost/</guid>
+      <description>Placeholder - WIP</description>
+    </item>
+  </channel>
+</rss>

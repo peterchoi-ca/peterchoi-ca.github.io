@@ -29,6 +29,10 @@ enableEmoji = true
     name = 'About'
     url = '/about/'
     weight = 30
+  [[menu.main]]
+    pageRef="resume"
+    name = 'Resume'
+    url = '/resume.pdf'
 
 [params]
   sitename = "Peter's Personal Page"
