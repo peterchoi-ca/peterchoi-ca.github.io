@@ -13,7 +13,7 @@ My professional career started at BlackBerry, where I was hired after finishing 
 
 I have over 10 years of IT consulting experience, with the last 5 years focused on helping enterprise customers in telco and public sector industries deliver business value through code and clouds. I have hands-on project experience helping teams adopt Azure, GCP, Terraform, Vault, Ansible, Containers, Kubernetes, and CI/CD pipelines using current software development practices.
 
-Recently I've pivoted into the product side by joining Intact, where I will be focusing on GenAI and CCaaS solutions deployed in GCP. It's an exciting time to be in tech, and I'm keen to work alongside the brightest people on emerging technologies.
+In June 2025 I've pivoted into the product side by joining Intact, where I will be focusing on GenAI and CCaaS solutions deployed in GCP. It's an exciting time to be in tech, and I'm keen to work alongside the brightest people on emerging technologies.
 
 I started this Hugo blog to share my knowledge and practice my writing skills. Thanks for stopping by!
 
