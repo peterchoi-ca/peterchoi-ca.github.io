@@ -1,0 +1,61 @@
+title = "Peter's Personal Page"
+baseURL = 'https://peterchoi-ca.github.io/'
+languageCode = 'en-us'
+theme = "hugo-blog-awesome"
+enableEmoji = true
+
+# set markup.highlight.noClasses=false to enable code highlight
+[markup]
+  [markup.highlight]
+    noClasses = false
+  [markup.goldmark.renderer]
+    unsafe = true
+
+[menu]
+  [[menu.main]] 
+    # The page reference (pageRef) is useful for menu highlighting
+    # When pageRef is set, setting `url` is optional; it will be used as a fallback if the page is not found.
+    pageRef="/"
+    name = 'Home'
+    url = '/'
+    weight = 10
+  [[menu.main]]
+    pageRef="posts"
+    name = 'Posts'
+    url = '/posts/'
+    weight = 20
+  [[menu.main]]
+    pageRef="about"
+    name = 'About'
+    url = '/about/'
+    weight = 30
+  [[menu.main]]
+    pageRef="resume"
+    name = 'Resume'
+    url = '/resume.pdf'
+
+[params]
+  sitename = "Peter's Personal Page"
+  defaultColor = "dark" # set color mode: dark, light, auto
+  # Setting it to 'auto' applies the color scheme based on the visitor's device color preference.If you don't specify anything, ignore this parameter, or leave it blank, 
+  # the default value is set to 'auto'. 
+  # You can take a look at layouts/index.html for more information.
+  description = "A personal page dedicated to my Cloud DevOps projects"
+
+[params.author]
+  avatar = "avatar.jpg" # put the file in assets folder; also ensure that image has same height and width
+  intro = "Peter Choi"
+  name = "Peter Choi"
+  description = "Technical Portfolio"
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/peterchoi-ca"
+
+[[params.socialIcons]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/pechoi/"
+
+[[params.socialIcons]]
+name = "email"
+url = "mailto:shpeterchoi@outlook.com"
