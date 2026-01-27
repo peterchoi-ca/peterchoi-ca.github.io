@@ -5,7 +5,7 @@ date: 2026-01-26T11:33:47-05:00
 
 ![Kube Program](/images/posts/kubestronaut/kube-program.png)
 
-I'm happy to share that I was recently added to the CNCF Kubestronaut program. I've refreshed the three performance-based Kubernetes certifications in CKA, CKAD, and CKS, as well as two foundational MCQ-based evaluations (KCNA and KCSA). 
+I'm happy to share that I was recently added to the CNCF Kubestronaut program. I've refreshed the three performance-based Kubernetes certifications in [CKA](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/), [CKAD](https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/), and [CKS](https://training.linuxfoundation.org/certification/certified-kubernetes-security-specialist/), as well as two foundational MCQ-based evaluations ([KCNA](https://training.linuxfoundation.org/certification/kubernetes-cloud-native-associate/) and [KCSA](https://training.linuxfoundation.org/certification/kubernetes-and-cloud-native-security-associate-kcsa/)). 
 
 Here's my listing: https://www.cncf.io/training/kubestronaut/ and [list of achievements](https://www.credly.com/users/pechoi).
 
