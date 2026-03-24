@@ -11,7 +11,9 @@ Here's my listing: https://www.cncf.io/training/kubestronaut/ and [list of achie
 
 ![Profile Picture](/images/posts/kubestronaut/kubestronaut-profile.jpg)
 
-It looks like I am amongst 80 individuals in Canada, and 3022 globally.
+CNCF Kubestronaut Profile: https://www.cncf.io/training/kubestronaut/?_sf_s=sun+hyung+choi&_sft_lf-country=ca&p=sun-hyung-choi
+
+It looks like I am amongst 80 individuals in Canada, and 3022 globally as of this writing.
 
 Looking forward to exploring and participating in all that this program has to offer. 
 
