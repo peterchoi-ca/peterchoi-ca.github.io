@@ -1,5 +1,5 @@
 title = "Peter's Personal Page"
-baseURL = 'https://peterchoi-ca.github.io/'
+baseURL = 'https://peterchoi.ca/'
 locale = 'en-us'
 theme = "hugo-blog-awesome"
 enableEmoji = true
